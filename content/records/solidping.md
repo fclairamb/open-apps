@@ -50,10 +50,14 @@ bestFor:
 whyListed:
   - The whole server is one Go binary on SQLite, with Postgres optional.
   - Checks go beyond HTTP, with databases, queues, DNS, SSH and a headless browser.
+caveats:
+  - It is a young project with a single maintainer, started in 2026.
+  - The source is AGPL-3.0, so a modified version offered as a network service must publish its changes.
+  - The dashboard is in English, French, German and Spanish only.
 seo:
   title: SolidPing – Open Source Uptime Monitoring and Status Pages
 addedAt: 2026-10-12
 ---
 ## Why it's listed
 
-SolidPing is a self-hostable uptime monitor with 40+ check types, incidents with on-call escalation, and status pages. It is AGPL-3.0, runs as a single Go binary or Docker image, and also has a hosted free plan.
+SolidPing is a self-hostable uptime monitor. The whole server is one Go binary that stores its data in SQLite, so a small VPS or a Raspberry Pi is enough, and Postgres is there when you outgrow it. It checks much more than HTTP: DNS, TLS expiry, SSH, SMTP and IMAP, seven databases, Kafka, RabbitMQ, MQTT, game servers, a headless browser and custom JavaScript. Failures open incidents that can escalate through on-call schedules, and results feed public status pages. Agents installed inside a private network connect out over a WebSocket, so internal services can be checked without opening a port. The same code runs the hosted version, which has a free plan with 100 monitors.
