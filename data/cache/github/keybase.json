@@ -3,7 +3,7 @@
   "slug": "keybase",
   "repoUrl": "https://github.com/keybase/client",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:54:21.124Z",
+  "lastSuccessAt": "2026-10-12T13:50:24.289Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:51.417Z",
@@ -101,7 +101,7 @@
       "releases_url": "https://api.github.com/repos/keybase/client/releases{/id}",
       "deployments_url": "https://api.github.com/repos/keybase/client/deployments",
       "created_at": "2015-01-11T17:17:12Z",
-      "updated_at": "2026-10-11T12:54:24Z",
+      "updated_at": "2026-10-12T10:10:01Z",
       "pushed_at": "2026-10-09T15:57:03Z",
       "git_url": "git://github.com/keybase/client.git",
       "ssh_url": "git@github.com:keybase/client.git",
@@ -118,7 +118,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 1283,
+      "forks_count": 1284,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -237,7 +237,7 @@
       "openPullRequests": 202
     },
     "sync": {
-      "syncedAt": "2026-10-11T15:54:21.124Z",
+      "syncedAt": "2026-10-12T13:50:24.289Z",
       "source": "api"
     },
     "html": {

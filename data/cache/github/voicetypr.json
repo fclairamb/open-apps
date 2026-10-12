@@ -3,7 +3,7 @@
   "slug": "voicetypr",
   "repoUrl": "https://github.com/ideaplexa/voicetypr",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:59:17.418Z",
+  "lastSuccessAt": "2026-10-12T13:55:48.394Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:35.894Z",
@@ -62,7 +62,7 @@
     "latestReleaseAt": "2026-10-09T23:05:19Z",
     "homepage": "https://voicetypr.com",
     "sync": {
-      "syncedAt": "2026-10-11T15:59:17.418Z",
+      "syncedAt": "2026-10-12T13:55:48.394Z",
       "source": "api"
     }
   },

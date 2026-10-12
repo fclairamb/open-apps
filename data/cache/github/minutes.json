@@ -3,7 +3,7 @@
   "slug": "minutes",
   "repoUrl": "https://github.com/silverstein/minutes",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:55:33.876Z",
+  "lastSuccessAt": "2026-10-12T13:51:39.808Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:15:55.901Z",
@@ -27,9 +27,9 @@
       "full_name": "silverstein/minutes",
       "stargazers_count": 1543,
       "forks_count": 168,
-      "open_issues_count": 76,
+      "open_issues_count": 77,
       "language": "Rust",
-      "pushed_at": "2026-10-08T20:09:41Z",
+      "pushed_at": "2026-10-12T00:01:40Z",
       "updated_at": "2026-10-11T07:15:45Z",
       "archived": false,
       "disabled": false,
@@ -57,7 +57,7 @@
     "latestReleaseAt": "2026-10-08T19:58:09Z",
     "homepage": "https://useminutes.app",
     "sync": {
-      "syncedAt": "2026-10-11T15:55:33.876Z",
+      "syncedAt": "2026-10-12T13:51:39.808Z",
       "source": "api"
     }
   },

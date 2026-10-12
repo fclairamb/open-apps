@@ -3,7 +3,7 @@
   "slug": "mhabit",
   "repoUrl": "https://github.com/FriesI23/mhabit",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:55:31.476Z",
+  "lastSuccessAt": "2026-10-12T13:51:37.372Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:30.058Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-11T15:55:31.476Z",
+      "syncedAt": "2026-10-12T13:51:37.372Z",
       "source": "api"
     },
     "repository": {
       "full_name": "FriesI23/mhabit",
-      "stargazers_count": 1645,
+      "stargazers_count": 1647,
       "forks_count": 100,
       "open_issues_count": 79,
       "language": "Dart",
       "pushed_at": "2026-10-10T08:49:36Z",
-      "updated_at": "2026-10-11T12:01:56Z",
+      "updated_at": "2026-10-11T21:47:41Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

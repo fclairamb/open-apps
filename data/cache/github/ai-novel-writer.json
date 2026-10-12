@@ -3,7 +3,7 @@
   "slug": "ai-novel-writer",
   "repoUrl": "https://github.com/EthanYoQ/AI-Novel-Writer",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:50:32.653Z",
+  "lastSuccessAt": "2026-10-12T13:46:30.102Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:34.282Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "EthanYoQ/AI-Novel-Writer",
-      "stargazers_count": 1406,
-      "forks_count": 165,
-      "open_issues_count": 18,
+      "stargazers_count": 1419,
+      "forks_count": 166,
+      "open_issues_count": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T15:50:22Z",
-      "updated_at": "2026-10-11T14:50:24Z",
+      "pushed_at": "2026-10-12T04:03:38Z",
+      "updated_at": "2026-10-12T12:56:51Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",
@@ -67,7 +67,7 @@
     },
     "latestReleaseAt": "2026-10-11T08:54:02Z",
     "sync": {
-      "syncedAt": "2026-10-11T15:50:32.653Z",
+      "syncedAt": "2026-10-12T13:46:30.102Z",
       "source": "api"
     }
   },

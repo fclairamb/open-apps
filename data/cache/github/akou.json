@@ -3,7 +3,7 @@
   "slug": "akou",
   "repoUrl": "https://github.com/GeiserX/akou",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:50:41.853Z",
+  "lastSuccessAt": "2026-10-12T13:46:38.664Z",
   "partialFailures": [],
   "sourceDescription": "The open-source alternative to Granola. Records your calls on a Mac, transcribes them on your own machine, lets your own AI agent in the terminal (Claude Code, Codex or any other) follow and question a call while it runs, and saves the notes to your own tools. Also runs as a self-hosted transcription server.",
   "github": {
@@ -13,8 +13,8 @@
       "forks_count": 0,
       "open_issues_count": 3,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T15:47:51Z",
-      "updated_at": "2026-10-11T14:30:45Z",
+      "pushed_at": "2026-10-12T09:01:21Z",
+      "updated_at": "2026-10-12T09:01:53Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-10T21:09:58Z",
     "homepage": "https://geiserx.github.io/akou/",
     "sync": {
-      "syncedAt": "2026-10-11T15:50:41.853Z",
+      "syncedAt": "2026-10-12T13:46:38.664Z",
       "source": "api"
     }
   },

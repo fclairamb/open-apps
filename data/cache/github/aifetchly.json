@@ -3,7 +3,7 @@
   "slug": "aifetchly",
   "repoUrl": "https://github.com/robertzengcn/aiFetchly",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:50:35.826Z",
+  "lastSuccessAt": "2026-10-12T13:46:32.911Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:37.536Z",
@@ -37,7 +37,7 @@
       "full_name": "robertzengcn/aiFetchly",
       "stargazers_count": 1,
       "forks_count": 0,
-      "open_issues_count": 52,
+      "open_issues_count": 53,
       "language": "TypeScript",
       "pushed_at": "2026-10-09T14:37:40Z",
       "updated_at": "2026-10-09T06:32:44Z",
@@ -52,7 +52,7 @@
     },
     "latestReleaseAt": "2026-10-09T14:37:40Z",
     "sync": {
-      "syncedAt": "2026-10-11T15:50:35.826Z",
+      "syncedAt": "2026-10-12T13:46:32.911Z",
       "source": "api"
     }
   },

@@ -3,18 +3,18 @@
   "slug": "tale",
   "repoUrl": "https://github.com/tale-project/tale",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:58:27.341Z",
+  "lastSuccessAt": "2026-10-12T13:54:55.777Z",
   "partialFailures": [],
   "sourceDescription": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud.",
   "github": {
     "repository": {
       "full_name": "tale-project/tale",
-      "stargazers_count": 33,
-      "forks_count": 5,
-      "open_issues_count": 253,
+      "stargazers_count": 34,
+      "forks_count": 6,
+      "open_issues_count": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T15:45:47Z",
-      "updated_at": "2026-10-11T15:43:54Z",
+      "pushed_at": "2026-10-12T13:53:04Z",
+      "updated_at": "2026-10-12T13:15:02Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -48,7 +48,7 @@
     "latestReleaseAt": "2026-10-11T13:10:17Z",
     "homepage": "https://tale.dev",
     "sync": {
-      "syncedAt": "2026-10-11T15:58:27.341Z",
+      "syncedAt": "2026-10-12T13:54:55.777Z",
       "source": "api"
     }
   },

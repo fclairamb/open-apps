@@ -3,7 +3,7 @@
   "slug": "rocket-chat-react-native",
   "repoUrl": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:57:34.050Z",
+  "lastSuccessAt": "2026-10-12T13:53:57.103Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:39.543Z",
@@ -102,7 +102,7 @@
       "deployments_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/deployments",
       "created_at": "2017-08-03T18:21:33Z",
       "updated_at": "2026-10-11T08:56:37Z",
-      "pushed_at": "2026-10-11T04:22:38Z",
+      "pushed_at": "2026-10-12T12:01:25Z",
       "git_url": "git://github.com/RocketChat/Rocket.Chat.ReactNative.git",
       "ssh_url": "git@github.com:RocketChat/Rocket.Chat.ReactNative.git",
       "clone_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative.git",
@@ -118,11 +118,11 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 1475,
+      "forks_count": 1476,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 513,
+      "open_issues_count": 515,
       "license": {
         "spdx_id": "MIT",
         "name": "MIT"
@@ -209,7 +209,7 @@
       "contributorsKnown": 139
     },
     "sync": {
-      "syncedAt": "2026-10-11T15:57:34.050Z",
+      "syncedAt": "2026-10-12T13:53:57.103Z",
       "source": "api"
     },
     "languages": {

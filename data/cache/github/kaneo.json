@@ -3,7 +3,7 @@
   "slug": "kaneo",
   "repoUrl": "https://github.com/usekaneo/kaneo",
   "source": "api",
-  "lastSuccessAt": "2026-10-11T15:54:15.603Z",
+  "lastSuccessAt": "2026-10-12T13:50:11.531Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:46.712Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "usekaneo/kaneo",
-      "stargazers_count": 9448,
-      "forks_count": 859,
-      "open_issues_count": 80,
+      "stargazers_count": 9455,
+      "forks_count": 861,
+      "open_issues_count": 86,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T15:46:15Z",
-      "updated_at": "2026-10-11T15:46:17Z",
+      "pushed_at": "2026-10-12T12:36:19Z",
+      "updated_at": "2026-10-12T13:08:15Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -62,10 +62,10 @@
         "typescript"
       ]
     },
-    "latestReleaseAt": "2026-10-11T15:46:16Z",
+    "latestReleaseAt": "2026-10-12T12:36:20Z",
     "homepage": "https://kaneo.app/",
     "sync": {
-      "syncedAt": "2026-10-11T15:54:15.603Z",
+      "syncedAt": "2026-10-12T13:50:11.531Z",
       "source": "api"
     }
   },
